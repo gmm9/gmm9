@@ -1,4 +1,4 @@
-## ola, me chamo Gabriel 👋
+## Ola, me chamo Gabriel 👋
 
 
 - 🔭 Ainda estou procurando um estágio ...
