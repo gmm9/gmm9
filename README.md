@@ -1,4 +1,4 @@
-## Ola, me chamo Gabriel 👋
+## Ola, me chamo Gabriel <img width="5%" src="https://raw.githubusercontent.com/PokeApi/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/390.gif" />
 
 
 - 🔭 Ainda estou procurando um estágio ...
