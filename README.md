@@ -5,12 +5,13 @@
 - 🌱 Atualmente aprendendo JavaScript 
 - ✨ A meta aprender todo dia um pouco +.
 
+##
 <div>
 <a href="https://github.com/gmm9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmm9&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-##
+
 
 <div style="display:inline_block"><br>
 <h2> ✔ Estudando</h2>
