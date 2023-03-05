@@ -2,7 +2,7 @@
 
 
 - 🔭 Ainda estou procurando um estágio ...
-- 🌱 Atualmente aprendendo JavaScript 
+- 🌱 Atualmente aprendendo React 
 - ✨ A meta aprender todo dia um pouco +.
 
 ##
