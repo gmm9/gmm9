@@ -1,9 +1,9 @@
 ## Ola, me chamo Gabriel <img width="5%" src="https://raw.githubusercontent.com/PokeApi/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/390.gif" />
 
 
-- 🔭 Ainda estou procurando um estágio ...
-- 🌱 Atualmente aprendendo React 
-- ✨ A meta aprender todo dia um pouco +.
+- 🔭 Estagiando em PHP
+- 🌱 Atualmente aprendendo React/PHP.
+- ✨ A meta aprender todo dia um pouco mais.
 
 ##
 <div>
