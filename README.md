@@ -1,5 +1,5 @@
+## PRECISO ATUALIZAR ESSE README
 ## Ola, me chamo Gabriel <img width="5%" src="https://raw.githubusercontent.com/PokeApi/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/390.gif" />
-
 
 - 🔭 Estagiando em PHP
 - 🌱 Atualmente aprendendo React/PHP.
@@ -20,7 +20,6 @@
 <img align="center" alt="icon-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="icon-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 <img align="center" alt="icon-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-<img align="center" alt="icon-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img align="center" alt="icon-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
